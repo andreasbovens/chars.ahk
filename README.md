@@ -8,6 +8,7 @@
 
 1. Install [AutoHotkey](https://www.autohotkey.com/).
 2. Download `chars.ahk` and double click it to run.
+3. Go to any document and type in a named character reference (e.g. try `&ntilde;` and you'll see `ñ` appear)
 
 To have it run automatically on startup, add a shortcut to `chars.ahk` from `%appdata%\Microsoft\Windows\Start Menu\Programs\Startup`.
 
