@@ -2,7 +2,7 @@
 
 ## Intro
 
-`Chars.ahk` is a simple [AutoHotkey](https://www.autohotkey.com/) script that turns named character references (like `&eacute;`, `&pound;` or `&star;`) into actual accented characters, symbols, etc. (like `é`, `£` or `☆`), all on the fly. It's a workaround for Windows' poor character input support, which otherwise involves typing ALT codes or picking them from Character Map.
+`chars.ahk` is a simple [AutoHotkey](https://www.autohotkey.com/) script that turns named character references (like `&eacute;`, `&pound;` or `&star;`) into actual accented characters, symbols, etc. (like `é`, `£` or `☆`), all on the fly. It's a workaround for Windows' poor character input support, which otherwise involves typing ALT codes or picking them from Character Map.
 
 ## Usage
 
